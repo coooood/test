@@ -20,7 +20,7 @@ Test是一个Git测试项目，没有实质内容。
 Test代码**只**适用于*windows*平台。
 <br><br><br>
 
-##范例
+##代码范例
 调用范例：  
 
 	#include <string.h>
